@@ -1,0 +1,29 @@
+{
+    "standardUserlogin":{
+    "username": "standard_user",
+      "password": "secret_sauce"
+  },
+
+ "lockedOutUser": {
+    "username": "locked_out_user",
+    "password": "secret_sauce"
+  },
+
+  "invalidCredentials":{
+    "username":"standard_user1",
+    "password": "secret_sauce"
+  },
+
+  "userInformation":{
+    "firstName":"Tope",
+    "lastName":"Solaja",
+    "zipCode":"200223"
+  },
+
+  "filters":{
+    "atoz": "az",
+    "ztoa": "za",
+    "lowtohigh": "lohi",
+    "hightolow": "hilo"
+}
+}
