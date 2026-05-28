@@ -1,1 +1,1 @@
-{"total":0,"items":[]}
+{"total":3,"items":[{"uid":"8f54395b89eac2ff674221f6429a52e7","name":"Cart Tests","statistic":{"failed":0,"broken":0,"skipped":0,"passed":10,"unknown":0,"total":10}},{"uid":"1a090126a0a10ae65e89e8eb90564097","name":"Products","statistic":{"failed":0,"broken":0,"skipped":0,"passed":9,"unknown":0,"total":9}},{"uid":"63399a71177c665f0b15505bb8822cd9","name":"Users Login","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}}]}
